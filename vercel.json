@@ -1,0 +1,6 @@
+{
+	"version": 2,
+	"routes": [
+		{"src": "/(.*)","dest": "http://khmdb.google.com/$1"}
+	]
+}
